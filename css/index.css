@@ -1,0 +1,15 @@
+.full{
+    min-height: 99.9%;
+    min-width: 99%;
+    overflow-y: auto;
+    background-color: rgb(252, 255, 250);
+}
+.full::-webkit-scrollbar{
+    display: none;
+}
+.welcome{
+    height: 450px;
+    width: 300px;
+    box-sizing: border-box;
+    padding: 10px;
+}
